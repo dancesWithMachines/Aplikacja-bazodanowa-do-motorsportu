@@ -1,5 +1,6 @@
 
 # Aplikacja bazodanowa do motorsportu
+![Działanie](./screenshots/dzialanie.gif)
 > Aplikacja formatkowa napisana w Javie, wykorzystująca baze danych oraz bezpieczne procedury. Aplikacja skupia się na obsłudze zawodów typu rallycross. Zawodnik może zarejestrować siebie i swój pojazd. Osoba uprzywilejowana może zaś zarządzać danymi użytkowników, uzupełniać ich czas oraz wyświetlać posortowaną tabelę wyników.
 
 ## Screenshoty
